@@ -33,11 +33,11 @@ This section showcases some of the key projects I've developed, demonstrating my
 
 #### 3. Calculator
 - **Description**: A functional calculator app with a user-friendly interface, capable of performing basic arithmetic operations.
-- **Tech Stack**: [Specify Tech Stack]
+- **Tech Stack**: UIKIT, MVVM
 
 #### 4. Music Player
 - **Description**: A sleek music player app that allows users to play, pause, and navigate through their music library.
-- **Tech Stack**: [Specify Tech Stack]
+- **Tech Stack**: UIKIT, CLEAN
 
 #### 5. Coffee Ordering App 
 - **Description**: An interactive app designed for ordering coffee, featuring a variety of options and customization for coffee lovers.
