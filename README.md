@@ -23,23 +23,23 @@ The Composable Architecture (TCA): My journey into SwiftUI applications has led 
 
 This section showcases some of the key projects I've developed, demonstrating my skills in real-world applications. Each project highlights different aspects of iOS development, utilizing Swift, SwiftUI, and UIKIT along with the MVVM architectural pattern.
 
-#### 1. Movie Booking App (SwiftUI, MVVM)
+#### 1. Movie Booking App
 - **Description**: A seamless movie booking experience, allowing users to browse movies, check showtimes, and book tickets. Developed using SwiftUI and implemented with the MVVM pattern for a clean separation of concerns.
 - **Tech Stack**: SwiftUI, MVVM
 
-#### 2. Notes App (UIKIT, MVVM)
+#### 2. Notes App 
 - **Description**: A simple yet effective notes application designed with UIKIT. It allows users to create, edit, and manage notes efficiently.
 - **Tech Stack**: UIKIT, MVVM
 
-#### 3. Calculator (Tech Stack)
+#### 3. Calculator
 - **Description**: A functional calculator app with a user-friendly interface, capable of performing basic arithmetic operations.
 - **Tech Stack**: [Specify Tech Stack]
 
-#### 4. Music Player (Tech Stack)
+#### 4. Music Player
 - **Description**: A sleek music player app that allows users to play, pause, and navigate through their music library.
 - **Tech Stack**: [Specify Tech Stack]
 
-#### 5. Coffee Ordering App (UIKIT)
+#### 5. Coffee Ordering App 
 - **Description**: An interactive app designed for ordering coffee, featuring a variety of options and customization for coffee lovers.
 - **Tech Stack**: UIKIT
 
